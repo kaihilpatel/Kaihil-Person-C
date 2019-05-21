@@ -4,15 +4,14 @@ public class PersonC {
 
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method stub
-		
 	    Scanner scanner = new Scanner(System.in)
 	    System.out.print("Type your first number");
-		int x = scannnnnnner.nextInt();
+		int x = scanner.nextInt();
 		System.out.print("Type your second number");
-		int x = scanner.nextNumber();
+		int y = scanner.nextInt();
 		System.out.print("here is the random number:" +  (int) Math.random()*x + y);
 
 	}
 
 }
+//fixed your garbage
